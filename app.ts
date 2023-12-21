@@ -24,8 +24,8 @@ function generatePassword() {
   // Réinitialisation du mot de passe :
   concatDigits = "";
   // Boucle de génération :
-  let i = 0;
-  while (i + 1 <= passwordLevel) {
+  let i = 1;
+  while (i <= passwordLevel) {
     // Sélection aléatoire des caractères :
     const random = Math.floor(Math.random() * splittedDigits.length);
 

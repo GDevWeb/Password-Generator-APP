@@ -30,6 +30,7 @@ Bienvenue dans le Générateur de Mot de Passe, une application simple pour cré
 - HTML
 - CSS
 - JavaScript
+- TypeScript
 
 ## Comment Utiliser
 
