@@ -1,10 +1,10 @@
-# Générateur de Mot de Passe
+# Password-Generator-APP - Générateur de Mot de Passe 
 
 Bienvenue dans le Générateur de Mot de Passe, une application simple pour créer des mots de passe sécurisés avec style. Utilisez ce générateur de mot de passe élégant pour générer des mots de passe forts et uniques. Profitez des fonctionnalités telles que l'ajustement du nombre de caractères, la génération, la copie et la réinitialisation des mots de passe.
 
 ## Table des matières
 
-- [Générateur de Mot de Passe](#générateur-de-mot-de-passe)
+- [Password-Generator-APP - Générateur de Mot de Passe](#password-generator-app---générateur-de-mot-de-passe)
   - [Table des matières](#table-des-matières)
   - [Aperçu](#aperçu)
   - [Technologies Utilisées](#technologies-utilisées)
@@ -72,4 +72,3 @@ Bienvenue dans le Générateur de Mot de Passe, une application simple pour cré
 ```javascript
 // ... (le reste du JavaScript) ...
 ```
-# Password-Generator-APP
