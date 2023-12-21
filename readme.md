@@ -7,6 +7,7 @@ Bienvenue dans le Générateur de Mot de Passe, une application simple pour cré
 - [Password-Generator-APP - Générateur de Mot de Passe](#password-generator-app---générateur-de-mot-de-passe)
   - [Table des matières](#table-des-matières)
   - [Aperçu](#aperçu)
+  - [Démo live :](#démo-live-)
   - [Technologies Utilisées](#technologies-utilisées)
   - [Comment Utiliser](#comment-utiliser)
   - [Installation](#installation)
@@ -20,6 +21,9 @@ Bienvenue dans le Générateur de Mot de Passe, une application simple pour cré
 <p align="center">
   <img src="screen.png" alt="capture d'écran de l'application du générateur de mot de passe" width="200px" height="auto">
 </p>
+
+## Démo live :
+[vercel](https://simple-password-generator-app.vercel.app/)
 
 ## Technologies Utilisées
 
